@@ -19,7 +19,10 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            throw new System.NotImplementedException();
+            MessageBox.Show("버튼이 작동 합니다.");
+            string? s = null;
+            int? ss = null;
+            val s2 = null;
         }
     }
 }
